@@ -1,4 +1,4 @@
-# Process-Control-Design-Lab
+# Process-Design-Control-Lab
 
 Goal: Analyzing and Maintaining the Heat Temperature, Liquid Levels and Liquid Flows.
 Designing the sequential Control Systems.
